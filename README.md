@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Im-mortalllll/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Im-mortalllll/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
 | [1920-build-array-from-permutation](https://github.com/Im-mortalllll/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Im-mortalllll/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Im-mortalllll/Leetcode/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Im-mortalllll/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Im-mortalllll/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Im-mortalllll/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Im-mortalllll/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Im-mortalllll/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
@@ -120,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
