@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Im-mortalllll/Leetcode/tree/master/0067-add-binary) |
+| [3330-find-the-original-typed-string-i](https://github.com/Im-mortalllll/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
 | ------- |
