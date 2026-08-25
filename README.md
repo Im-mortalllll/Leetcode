@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/Im-mortalllll/Leetcode/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Im-mortalllll/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Im-mortalllll/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Dynamic Programming
 |  |
