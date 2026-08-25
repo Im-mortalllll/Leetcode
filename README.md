@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Im-mortalllll/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Im-mortalllll/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Im-mortalllll/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Im-mortalllll/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
