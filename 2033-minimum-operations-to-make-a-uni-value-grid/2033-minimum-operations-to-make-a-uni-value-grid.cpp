@@ -18,18 +18,7 @@ public:
         int med = flat[m * n / 2];
         int ans = 0;
         for (int i = 0; i < m * n; i++){
-            if (med > flat[i]){
-                while (flat[i] != med){
-                    flat[i] += x;
-                    ans++;
-                }
-            }
-            else {
-                while (flat[i] != med){
-                    flat[i] -= x;
-                    ans++;
-                }
-            }
+            ans += abs(flat[i] - med) / x;
         }
         return ans;
     }
