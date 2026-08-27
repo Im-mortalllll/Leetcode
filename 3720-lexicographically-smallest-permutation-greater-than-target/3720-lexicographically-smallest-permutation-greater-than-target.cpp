@@ -2,7 +2,6 @@ class Solution {
 public:
     string lexGreaterPermutation(string s, string target) {
         int n = s.size();
-        sort(s.begin(), s.end());
         int start = n - 1;
         for (int i = 0; i < n; i++) {
             int pos = -1;
