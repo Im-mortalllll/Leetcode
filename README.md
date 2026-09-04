@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Im-mortalllll/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Im-mortalllll/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Im-mortalllll/Leetcode/tree/master/0067-add-binary) |
+| [0299-bulls-and-cows](https://github.com/Im-mortalllll/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1927-sum-game](https://github.com/Im-mortalllll/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Im-mortalllll/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Im-mortalllll/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Im-mortalllll/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Im-mortalllll/Leetcode/tree/master/0036-valid-sudoku) |
+| [0299-bulls-and-cows](https://github.com/Im-mortalllll/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Im-mortalllll/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Im-mortalllll/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Im-mortalllll/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3467-transform-array-by-parity](https://github.com/Im-mortalllll/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Im-mortalllll/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
