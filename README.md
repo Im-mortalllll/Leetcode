@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Im-mortalllll/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Im-mortalllll/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
