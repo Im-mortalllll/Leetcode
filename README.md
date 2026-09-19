@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Im-mortalllll/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Im-mortalllll/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Im-mortalllll/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Im-mortalllll/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Im-mortalllll/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Im-mortalllll/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Im-mortalllll/Leetcode/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Im-mortalllll/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Im-mortalllll/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Im-mortalllll/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/Im-mortalllll/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/3731-find-missing-elements) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/Im-mortalllll/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Im-mortalllll/Leetcode/tree/master/1927-sum-game) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Im-mortalllll/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Im-mortalllll/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Im-mortalllll/Leetcode/tree/master/0093-restore-ip-addresses) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Im-mortalllll/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
