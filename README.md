@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Im-mortalllll/Leetcode/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/Im-mortalllll/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Im-mortalllll/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Im-mortalllll/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/Im-mortalllll/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0504-base-7](https://github.com/Im-mortalllll/Leetcode/tree/master/0504-base-7) |
 | [1927-sum-game](https://github.com/Im-mortalllll/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Im-mortalllll/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
