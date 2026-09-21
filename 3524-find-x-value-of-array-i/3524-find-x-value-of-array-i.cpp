@@ -1,11 +1,4 @@
 class Solution {
-    // int find_prod(int a, int b, vector <int> &nums, int &k){
-    //     int prod = 1;
-    //     for (int i = a; i <= b; i++){
-    //         prod = (prod * nums[i]) % k;
-    //     }
-    //     return prod;
-    // }
 public:
     vector<long long> resultArray(vector<int>& nums, int k) {
         vector<long long int> result(k,0);
