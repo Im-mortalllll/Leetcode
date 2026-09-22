@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Im-mortalllll/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Im-mortalllll/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Im-mortalllll/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Im-mortalllll/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Im-mortalllll/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
