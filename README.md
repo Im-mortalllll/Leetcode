@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Im-mortalllll/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Im-mortalllll/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Im-mortalllll/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/Im-mortalllll/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Im-mortalllll/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0504-base-7](https://github.com/Im-mortalllll/Leetcode/tree/master/0504-base-7) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Im-mortalllll/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Im-mortalllll/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Im-mortalllll/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Im-mortalllll/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Im-mortalllll/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Im-mortalllll/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Im-mortalllll/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Im-mortalllll/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
