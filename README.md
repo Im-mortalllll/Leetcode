@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Im-mortalllll/Leetcode/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Im-mortalllll/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0504-base-7](https://github.com/Im-mortalllll/Leetcode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Im-mortalllll/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/0397-integer-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Im-mortalllll/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Im-mortalllll/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/Im-mortalllll/Leetcode/tree/master/1927-sum-game) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Im-mortalllll/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Im-mortalllll/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
