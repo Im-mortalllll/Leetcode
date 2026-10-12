@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Im-mortalllll/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Im-mortalllll/Leetcode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Im-mortalllll/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Im-mortalllll/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Im-mortalllll/Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Im-mortalllll/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Im-mortalllll/Leetcode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Im-mortalllll/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Im-mortalllll/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
