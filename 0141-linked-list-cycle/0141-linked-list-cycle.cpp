@@ -17,7 +17,6 @@ public:
             if (sl == fa){
                 return true;
             }
-            
         }
         return false;
     }
