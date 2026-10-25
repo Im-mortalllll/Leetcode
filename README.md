@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Im-mortalllll/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Im-mortalllll/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Im-mortalllll/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Im-mortalllll/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Im-mortalllll/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Im-mortalllll/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Im-mortalllll/Leetcode/tree/master/1927-sum-game) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2409-count-days-spent-together](https://github.com/Im-mortalllll/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Im-mortalllll/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
