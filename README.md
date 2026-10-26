@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Im-mortalllll/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Im-mortalllll/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Im-mortalllll/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Im-mortalllll/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Im-mortalllll/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Im-mortalllll/Leetcode/tree/master/0048-rotate-image) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Im-mortalllll/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Im-mortalllll/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Memoization
 |  |
 | ------- |
