@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Im-mortalllll/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Im-mortalllll/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Im-mortalllll/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Im-mortalllll/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Im-mortalllll/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Im-mortalllll/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Im-mortalllll/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## String
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Im-mortalllll/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Im-mortalllll/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Im-mortalllll/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
