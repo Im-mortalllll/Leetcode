@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Im-mortalllll/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Im-mortalllll/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Im-mortalllll/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Im-mortalllll/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Im-mortalllll/Leetcode/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/Im-mortalllll/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Im-mortalllll/Leetcode/tree/master/0504-base-7) |
 | [0836-rectangle-overlap](https://github.com/Im-mortalllll/Leetcode/tree/master/0836-rectangle-overlap) |
