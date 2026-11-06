@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Im-mortalllll/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Im-mortalllll/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Im-mortalllll/Leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Im-mortalllll/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Im-mortalllll/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Im-mortalllll/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Im-mortalllll/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Im-mortalllll/Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Im-mortalllll/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Im-mortalllll/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Im-mortalllll/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/Im-mortalllll/Leetcode/tree/master/0290-word-pattern) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Im-mortalllll/Leetcode/tree/master/0079-word-search) |
 | [0365-water-and-jug-problem](https://github.com/Im-mortalllll/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [3310-remove-methods-from-project](https://github.com/Im-mortalllll/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Im-mortalllll/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Im-mortalllll/Leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Im-mortalllll/Leetcode/tree/master/0079-word-search) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Im-mortalllll/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Im-mortalllll/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Memoization
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Im-mortalllll/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Im-mortalllll/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Im-mortalllll/Leetcode/tree/master/0093-restore-ip-addresses) |
 ## Counting Sort
 |  |
