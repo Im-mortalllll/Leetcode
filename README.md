@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Im-mortalllll/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Im-mortalllll/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Im-mortalllll/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Im-mortalllll/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Im-mortalllll/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/Im-mortalllll/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3467-transform-array-by-parity](https://github.com/Im-mortalllll/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Im-mortalllll/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
@@ -279,11 +281,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Im-mortalllll/Leetcode/tree/master/0079-word-search) |
 | [0365-water-and-jug-problem](https://github.com/Im-mortalllll/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [1267-count-servers-that-communicate](https://github.com/Im-mortalllll/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Im-mortalllll/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Im-mortalllll/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [1267-count-servers-that-communicate](https://github.com/Im-mortalllll/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Im-mortalllll/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Im-mortalllll/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Im-mortalllll/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Im-mortalllll/Leetcode/tree/master/0079-word-search) |
+| [1267-count-servers-that-communicate](https://github.com/Im-mortalllll/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Im-mortalllll/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Im-mortalllll/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Memoization
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Im-mortalllll/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Im-mortalllll/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Pigeonhole Principle
 |  |
 | ------- |
