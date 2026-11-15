@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Im-mortalllll/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Im-mortalllll/Leetcode/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Im-mortalllll/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
 | [1267-count-servers-that-communicate](https://github.com/Im-mortalllll/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Im-mortalllll/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Im-mortalllll/Leetcode/tree/master/0504-base-7) |
 | [0836-rectangle-overlap](https://github.com/Im-mortalllll/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Im-mortalllll/Leetcode/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Im-mortalllll/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Im-mortalllll/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Im-mortalllll/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Im-mortalllll/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Im-mortalllll/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Im-mortalllll/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Im-mortalllll/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Im-mortalllll/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Im-mortalllll/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/Im-mortalllll/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1386-cinema-seat-allocation](https://github.com/Im-mortalllll/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Im-mortalllll/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/Im-mortalllll/Leetcode/tree/master/1927-sum-game) |
@@ -467,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Im-mortalllll/Leetcode/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Im-mortalllll/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Im-mortalllll/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
