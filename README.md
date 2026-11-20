@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Im-mortalllll/Leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/Im-mortalllll/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Im-mortalllll/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Im-mortalllll/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/Im-mortalllll/Leetcode/tree/master/0397-integer-replacement) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Im-mortalllll/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Im-mortalllll/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Im-mortalllll/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
