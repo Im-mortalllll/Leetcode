@@ -9,7 +9,7 @@ public:
         }
         for (int i = 3; i <= n; i+=2){
             bool _isPrime = true;
-            for (int j = 3; j * j <= i; j++) {
+            for (int j = 3; j * j <= i; j+=2) {
                 if (i % j == 0) {
                     _isPrime = false;
                     break;
