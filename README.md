@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Im-mortalllll/Leetcode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Im-mortalllll/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Im-mortalllll/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Im-mortalllll/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Im-mortalllll/Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
