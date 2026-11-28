@@ -311,12 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Im-mortalllll/Leetcode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Im-mortalllll/Leetcode/tree/master/0100-same-tree) |
 | [0365-water-and-jug-problem](https://github.com/Im-mortalllll/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1267-count-servers-that-communicate](https://github.com/Im-mortalllll/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Im-mortalllll/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Im-mortalllll/Leetcode/tree/master/0100-same-tree) |
 | [0365-water-and-jug-problem](https://github.com/Im-mortalllll/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1267-count-servers-that-communicate](https://github.com/Im-mortalllll/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Im-mortalllll/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -504,4 +506,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Im-mortalllll/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Im-mortalllll/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Im-mortalllll/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
